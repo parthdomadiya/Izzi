@@ -1,0 +1,1 @@
+ /Users/tnsapp/Desktop/Izzi/.dart_tool/flutter_build/3eb63a1d9dc08fe2109656b88f1d1edd/native_assets.yaml: 

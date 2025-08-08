@@ -31,7 +31,6 @@ class _MyAppState extends State<MyApp> {
       title: "Izzi",
       routes: routes,
       theme: AppTheme.getTheme(),
-      // home: Covid19Help(),
     );
   }
 

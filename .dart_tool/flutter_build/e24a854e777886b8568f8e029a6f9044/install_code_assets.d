@@ -1,0 +1,1 @@
+ D:\\Envato\ market\\Izzi\\.dart_tool\\flutter_build\\e24a854e777886b8568f8e029a6f9044\\native_assets.json: 

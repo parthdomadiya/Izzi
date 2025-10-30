@@ -1,4 +1,4 @@
-// ignore_for_file: non_constant_identifier_names, use_key_in_widget_constructors, use_super_parameters
+// ignore_for_file: non_constant_identifier_names, use_key_in_widget_constructors, use_super_parameters, deprecated_member_use
 
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';

@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
+// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, deprecated_member_use
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -71,7 +71,7 @@ class _RemindState extends State<Remind> {
                   CupertinoSwitch(
                     value: isEnabled,
                     onChanged: (value) => setState(() => isEnabled = value),
-                    activeColor:
+                    activeTrackColor:
                         HexColor('#3F51B5'), // Color when the switch is on
                   ),
                 ],

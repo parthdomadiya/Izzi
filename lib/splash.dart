@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, use_build_context_synchronously, unnecessary_new
+// ignore_for_file: prefer_const_constructors, use_build_context_synchronously, unnecessary_new, strict_top_level_inference
 
 import 'package:flutter/material.dart';
 import 'package:izzi/Constance/constance.dart';
